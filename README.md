@@ -7,15 +7,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwin-0007&label=Profile%20views&color=0e75b6&style=flat" alt="ashwin-0007" /> </p>
 
 
-- 🔭 I’m currently working on **Full-Stack/MERN Social Media App**
+- 🔭 I’m currently working on **Reat js on Jigsawml website https://jigsawml.com/**
 
-- 🌱 I’m currently learning **Full-Stack/ MERN(MongoDB, Express.js, React.js, Node.js)**
+- 🌱 I’m working on **Full-Stack/ MERN(MongoDB, Express.js, React.js, Node.js)**
 
 - 💬 Ask me about **Core Java, HTML, CSS, JavaScript, MongoDB, Express.js, React.js, Node.js, C++**
 
 - 📫 How to reach me **singhashwin2626@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1p1lbCCViKfCQ-yKBO1POCVRP6aKgVqdq-rkcCodTXZ0/edit?usp=sharing](https://docs.google.com/document/d/1p1lbCCViKfCQ-yKBO1POCVRP6aKgVqdq-rkcCodTXZ0/edit?usp=sharing)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1p1lbCCViKfCQ-yKBO1POCVRP6aKgVqdq-rkcCodTXZ0/edit?usp=sharing](https://docs.google.com/document/d/1p1lbCCViKfCQ-yKBO1POCVRP6aKgVqdq-rkcCodTXZ0/edit?usp=sharing](https://docs.google.com/document/d/1OpbUHO9NjKGd6d0-che8Q6tseuzvl12u/edit)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashwin-0007" alt="ashwin-0007" /></a> </p>
 
 - ⚡ Fun fact **I am funny😂**
