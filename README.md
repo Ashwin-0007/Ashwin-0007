@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwin-0007&label=Profile%20views&color=0e75b6&style=flat" alt="ashwin-0007" /> </p>
 
 
-- 🔭 I’m currently working on **Reat js on Jigsawml website https://jigsawml.com/**
+- 🔭 I’m currently working on **React js on Jigsawml website https://jigsawml.com/**
 
 - 🌱 I’m proficient in **Full-Stack/ MERN(MongoDB, Express.js, React.js, Node.js)**
 
