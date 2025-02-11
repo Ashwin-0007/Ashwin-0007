@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/121715823/235297659-e41a14e9-f31a-4155-9bd7-7e5347f4a4fb.png)
 <h1 align="center">Hi 👋, I'm Ashwin Kumar Singh</h1>
-<h3 align="center">A passionate Full-Stack MERN Developer from India</h3>
+<h3 align="center">A passionate MERN Stack Developer from India</h3>
 
 <img align="right" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding" width="400">
 
@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Reat js on Jigsawml website https://jigsawml.com/**
 
-- 🌱 I’m working on **Full-Stack/ MERN(MongoDB, Express.js, React.js, Node.js)**
+- 🌱 I’m proficient in **Full-Stack/ MERN(MongoDB, Express.js, React.js, Node.js)**
 
-- 💬 Ask me about **Core Java, HTML, CSS, JavaScript, MongoDB, Express.js, React.js, Node.js, C++**
+- 💬 Ask me about **Core Java, HTML, CSS, JavaScript, MongoDB, Express.js, React.js, Node.js, Redux-toolkit, Bootstrap, Oops, C++**
 
 - 📫 How to reach me **singhashwin2626@gmail.com**
 
