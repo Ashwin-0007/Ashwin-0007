@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **singhashwin2626@gmail.com**
 
-- 📄 Know about my experiences [[https://docs.google.com/document/d/1p1lbCCViKfCQ-yKBO1POCVRP6aKgVqdq-rkcCodTXZ0/edit?usp=sharing](https://docs.google.com/document/d/1p1lbCCViKfCQ-yKBO1POCVRP6aKgVqdq-rkcCodTXZ0/edit?usp=sharing](https://docs.google.com/document/d/1OpbUHO9NjKGd6d0-che8Q6tseuzvl12u/edit](https://drive.google.com/file/d/15rMeXU68nmNflhF3BV4b2dJVCVu3mEA7/view?usp=sharing))
+- 📄 Know about my experiences https://drive.google.com/file/d/15rMeXU68nmNflhF3BV4b2dJVCVu3mEA7/view?usp=sharing
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashwin-0007" alt="ashwin-0007" /></a> </p>
 
 - ⚡ Fun fact **I am funny😂**
