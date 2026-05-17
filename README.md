@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/121715823/235297659-e41a14e9-f31a-4155-9bd7-7e5347f4a4fb.png)
 <h1 align="center">Hi 👋, I'm Ashwin Kumar Singh</h1>
-<h3 align="center">A passionate Full-Stack MERN Developer from India</h3>
+<h3 align="center">A passionate Full-Stack Developer | MERN Stack & Java (Spring Boot, Hibernate, JPA) from India</h3>
 
 <img align="right" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding" width="400">
 
@@ -8,13 +8,13 @@
 
 - 🔭 I'm currently working on **EOCN-Screening Microservice at Code Garage Tech Pvt. Ltd.**
 
-- 🌱 I'm proficient in **Full-Stack / MERN (MongoDB, Express.js, React.js, Node.js)**
+- 🌱 I'm proficient in **Full-Stack / MERN (MongoDB, Express.js, React.js, Node.js) & Java (Spring Boot, Spring Security, Hibernate, JPA)**
 
 - 💡 I have **1.8 years of professional experience** building scalable web applications and microservices
 
 - 🚀 Improved **API performance by 20–25%** through query optimization, indexing, and Redis-based caching
 
-- 💬 Ask me about **Java, JavaScript, TypeScript, MongoDB, Express.js, React.js, Node.js, Redux, Docker, JWT, REST APIs, DSA**
+- 💬 Ask me about **Java, Spring Boot, Spring Security, Hibernate, JPA, JavaScript, TypeScript, MongoDB, Express.js, React.js, Node.js, Redux, Docker, JWT, REST APIs, DSA**
 
 - 📫 How to reach me **dev.ashwin07@gmail.com**
 
@@ -29,7 +29,9 @@
 <h3 align="left">🛠️ Technical Skills</h3>
 
 - **Languages & Concepts:** Java, JavaScript, TypeScript, OOPs, DSA, System Design, Microservices Architecture
-- **Backend & Databases:** Express.js, Node.js, REST APIs, Mongoose, JWT, PostgreSQL, MongoDB, Redis, Spring Boot, Spring Security, Hibernate, JPA
+- **MERN Stack:** MongoDB, Express.js, React, Node.js, Mongoose, Redux, REST APIs, JWT, Redis
+- **Java Ecosystem:** Spring Boot, Spring Security, Hibernate, JPA, JUnit, OAuth 2.0
+- **Databases:** MongoDB, PostgreSQL, Redis
 - **Frontend:** React, Redux, HTML5, CSS3, Bootstrap, Tailwind CSS
 - **Security & Testing:** OAuth 2.0, JWT, JUnit, API Testing
 - **Tools & DevOps:** Git, GitHub, Docker, CI/CD, Nginx, Postman
@@ -100,6 +102,7 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
 <a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring boot" width="40" height="40"/></a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
 </p>
 
